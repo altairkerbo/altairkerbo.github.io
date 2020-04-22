@@ -22,8 +22,8 @@ author: Altair Kerbo
  url:		https://www.exchangerate-api.com
  name:		'ExchangeRate-API'
 
-github:
- repo:		https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
+# github:
+# repo:		https://github.com/ExchangeRate-API/rlstevenson-jekyll-theme
 
 gems:		[jekyll-paginate]
 
