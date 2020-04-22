@@ -12,7 +12,7 @@ description:	'一个摸鱼的地方'
 baseurl:	'/'
 paginate:	3
 version:	0.1.0
-colorscheme:	scheme-lightbrown
+colorscheme:	'scheme-lightbrown'
 
 ga:		'UA-123-456'
 piwikSiteID:	''
