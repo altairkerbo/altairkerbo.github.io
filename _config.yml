@@ -6,19 +6,19 @@
 # For baseurl:
 # Use '' for / or '/your-dir' for another directory
 
-title:		RLStevenson
-description:	'A Bootstrap based clone of the Hyde theme by mdo.'
-freetext:	'Released under an MIT license - feel free to make pull requests.'
+title:		云上岛
+description:	'一个摸鱼的地方'
+# freetext:	'Released under an MIT license - feel free to make pull requests.'
 baseurl:	'/'
 paginate:	3
 version:	0.1.0
-colorscheme:	scheme-gulfracing
+colorscheme:	scheme-lightbrown
 
 ga:		'UA-123-456'
 piwikSiteID:	''
 piwikURL:	''
 
-author:
+author: Altair Kerbo
  url:		https://www.exchangerate-api.com
  name:		'ExchangeRate-API'
 
