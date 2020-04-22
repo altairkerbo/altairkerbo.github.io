@@ -18,7 +18,7 @@ ga:		'UA-123-456'
 piwikSiteID:	''
 piwikURL:	''
 
-author: Altair Kerbo
+author:
  url:		https://www.exchangerate-api.com
  name:		'ExchangeRate-API'
 
